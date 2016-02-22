@@ -1,0 +1,10 @@
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\ServiceHost.exe.config
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\ServiceHost.exe
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\ServiceHost.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\SomeService.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\PersonDO.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\SomeService.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\bin\Debug\PersonDO.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\obj\Debug\ServiceHost.exe
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\ServiceHost\obj\Debug\ServiceHost.pdb

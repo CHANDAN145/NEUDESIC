@@ -1,0 +1,7 @@
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\obj\Debug\SomeService.csprojResolveAssemblyReference.cache
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\bin\Debug\SomeService.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\bin\Debug\SomeService.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\bin\Debug\PersonDO.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\bin\Debug\PersonDO.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\obj\Debug\SomeService.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\SomeService\obj\Debug\SomeService.pdb

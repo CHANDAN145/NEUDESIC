@@ -1,0 +1,5 @@
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\PersonDO\bin\Debug\PersonDO.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\PersonDO\bin\Debug\PersonDO.pdb
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\PersonDO\obj\Debug\PersonDO.dll
+c:\users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\PersonDO\obj\Debug\PersonDO.pdb
+C:\Users\chandan.pradeep\documents\visual studio 2013\Projects\SomeService\PersonDO\obj\Debug\PersonDO.csprojResolveAssemblyReference.cache
